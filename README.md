@@ -1,2 +1,2 @@
-# msct2
+# msct
 
